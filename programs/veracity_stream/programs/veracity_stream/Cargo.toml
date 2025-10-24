@@ -1,0 +1,11 @@
+[package]
+name = "veracity_stream"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "veracity_stream"
+
+[dependencies]
+anchor-lang = "0.30.1"
