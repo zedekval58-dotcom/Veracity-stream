@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "programs/veracity_stream"
+]
+
+[profile.release]
+overflow-checks = true
