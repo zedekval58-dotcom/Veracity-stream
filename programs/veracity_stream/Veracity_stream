@@ -1,0 +1,13 @@
+veracity-stream/
+├── programs/
+│   └── truthflow/
+│       ├── Cargo.toml
+│       ├── Anchor.toml
+│       └── src/
+│           ├── lib.rs
+│           ├── instructions/
+│           └── state/
+├── migrations/
+├── Anchor.toml
+├── Cargo.toml
+└── README.md
