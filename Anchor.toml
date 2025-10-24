@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "programs/veracity_stream"
+]
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
